@@ -1,0 +1,10 @@
+5	Harun Gezici	536-8967812	Adress: Address: Tandogan 34 sk. 56/3
+9	Ebru Yilmaz	312-4567890	Adress: Address: Maltepe 21 sk. 23/7
+12	Orhan Seven	256-3456789	Adress: Address: Eryaman 3. Etap 12/7
+23	Zeynep Atac	234-3456789	Adress: Address: Hacettepe University Department of Matemathics
+35	Umit Gezen	236-3446789	Adress: Address: Dikmen 4. Cadde 34/2
+35	Hakan Kanat	234-5677896	Adress: Ayranci 10. sok. 30/10
+42	Ismail Can	535-8969746	Adress: Address: Cebeci 56 cd. 34/5
+45	Arif Batar	563-9563256	Adress: Adress: Balgat 1321 cd. 12/5
+50	Meryem Atas	654-2122121	Adress: Adress: Emek 19 sk. 12/5
+88	Beril Maral	568-8964142	Adress: Bilkent 32 cd. 72/3

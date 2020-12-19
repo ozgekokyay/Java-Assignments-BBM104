@@ -1,0 +1,108 @@
+117	Tunca DOÐAN	544-2977509	
+SORUN
+ Address:  
+117	Tunca DOÐAN	544-2977509	
+SORUN
+ 	Bahçeler Üstü Mah. Arif Yaldýz Cad. No:101/A Mamak/Ankara
+121	Murat AYDOS	312-2977503	
+SORUN
+ Address:  Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul 
+121	Murat AYDOS	312-2977503	
+SORUN
+ Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul
+125	Gönenç ERCAN	545-2977513	
+SORUN
+ Address:  6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir 
+125	Gönenç ERCAN	545-2977513	
+SORUN
+ 6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir
+127	Burcu CAN	537-2977505	
+SORUN
+ Address:  Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL 
+127	Burcu CAN	537-2977505	
+SORUN
+ Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL
+128	Engin DEMÝR	545-2977508	
+SORUN
+ Address:  Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara 
+128	Engin DEMÝR	545-2977508	
+SORUN
+ Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara
+129	Fuat AKAL	312-2977500	
+SORUN
+ Address:  Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul 
+129	Fuat AKAL	312-2977500	
+SORUN
+ Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul
+131	Ufuk ÇELÝKCAN	532-2977506	
+SORUN
+ Address:  Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul 
+131	Ufuk ÇELÝKCAN	532-2977506	
+SORUN
+ Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul
+132	Burak CAN	545-2977504	
+SORUN
+ Address:  Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul 
+132	Burak CAN	545-2977504	
+SORUN
+ Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul
+133	Ayça KOLUKISA	542-2977519	
+SORUN
+ Address:  Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul 
+133	Ayça KOLUKISA	542-2977519	
+SORUN
+ Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul
+136	Harun ARTUNER	312-2977502	
+SORUN
+ Address:  Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul 
+136	Harun ARTUNER	312-2977502	
+SORUN
+ Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul
+138	Ebru AKÇAPINAR	312-2977501	
+SORUN
+ Address:  Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL 
+138	Ebru AKÇAPINAR	312-2977501	
+SORUN
+ Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+139	Nazlý ÝKÝZLER	542-2977517	
+SORUN
+ Address:  75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir 
+139	Nazlý ÝKÝZLER	542-2977517	
+SORUN
+ 75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir
+141	Pýnar DUYGULU	545-2977510	
+SORUN
+ Address:  Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara 
+141	Pýnar DUYGULU	545-2977510	
+SORUN
+ Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+145	Mustafa EGE	545-2977512	
+SORUN
+ Address:  Adnan Menderes Havaalaný Gaziemir/Ýzmir 
+145	Mustafa EGE	545-2977512	
+SORUN
+ Adnan Menderes Havaalaný Gaziemir/Ýzmir
+146	Aykut ERDEM	537-2977515	
+SORUN
+ Address:  ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR 
+146	Aykut ERDEM	537-2977515	
+SORUN
+ ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR
+147	Erkut ERDEM	537-2977514	
+SORUN
+ Address:  Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir 
+147	Erkut ERDEM	537-2977514	
+SORUN
+ Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir
+149	Adnan ÖZSOY	532-2977522	
+SORUN
+ Address:  Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul 
+149	Adnan ÖZSOY	532-2977522	
+SORUN
+ Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul
+209	Ýlyas ÇÝÇEKLÝ	537-2977507	
+SORUN
+ Address:  Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara 
+209	Ýlyas ÇÝÇEKLÝ	537-2977507	
+SORUN
+ Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara

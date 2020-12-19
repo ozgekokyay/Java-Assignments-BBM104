@@ -1,0 +1,86 @@
+AddPatient 129 Fuat AKAL 312-2977500 Cumhuriyet Mah. Erdoğan Sok. No:22/A Çekmeköy / İstanbul
+AddPatient 138 Ebru AKÇAPINAR 312-2977501 Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+AddPatient 136 Harun ARTUNER 312-2977502 Esenkent Mah. Semir Sok. No:2 Ümraniye/İstanbul
+AddPatient 121 Murat AYDOS 312-2977503 Cevizli Mah. Selanik Cad. No:47 Kartal/İstanbul
+AddPatient 132 Burak CAN 545-2977504 Akşemsettin Mahallesi Akgül Cad. İbrahim Efendi Sok. No:16/A Sultanbeyli/İstanbul
+AddPatient 127 Burcu CAN 537-2977505 Altınşehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANİYE-İSTANBUL
+AddPatient 131 Ufuk ÇELİKCAN 532-2977506 Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/İstanbul
+AddPatient 209 İlyas ÇİÇEKLİ 537-2977507 Yakacık Köyü 1. Cad. No :15 Yenimahalle/Ankara
+AddPatient 128 Engin DEMİR 545-2977508 Gökkuşağı Mah. Gökkuşağı Caddesi Gökkuşağı Apt. No:71 Balgat / Ankara
+AddPatient 117 Tunca DOĞAN 544-2977509 	Bahçeler Üstü Mah. Arif Yaldız Cad. No:101/A Mamak/Ankara
+AddPatient 141 Pınar DUYGULU 545-2977510 Macun Mahallesi 249 Sokak Yenimahalle Yapı Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+AddPatient 114 Önder EFE 545-2977511 Yunus Emre Mah. 7402/7 Sk. Pınarbaşı Bornova İzmir
+AddPatient 145 Mustafa EGE 545-2977512 Adnan Menderes Havaalanı Gaziemir/İzmir
+AddPatient 125 Gönenç ERCAN 545-2977513 6118 Sok. No:52 Ayküsan Ayakkabıcılar Sitesi Bornova/İzmir
+AddPatient 147 Erkut ERDEM 537-2977514 Uğur Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/İzmir
+AddPatient 146 Aykut ERDEM 537-2977515 ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMİŞ İZMİR
+AddPatient 139 Nazlı İKİZLER 542-2977517 75.Yıl Mah.Tomacılar Sıt.M Blok No.5 Odunpazarı/Eskişehir
+AddPatient 140 Kayhan İMRE 545-2977518 Sehit Ongun M. Hulusi Sok. No:1 Yenişehir - Lefkoşa Kıbrıs
+AddPatient 133 Ayça KOLUKISA 542-2977519 Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcılar/İstanbul
+AddPatient 124 Mehmet KÖSEOĞLU 545-2977520 Ziya Gökalp Mah. Süleyman Demirel Bulv. Cumhuriyet Cad. No: 42 İş Modern Tic. Mer. 1. Etap H Blok Kat: 3 No: 63 İkitelli / İstanbul
+AddPatient 151 Lale ÖZKAHYA 537-2977521 Yakuplu Merkez Mah. Fatih Sultan Mehmet Cad. 14. Sok. No:28/ 1 -2 Beylikdüzü/İstanbul
+AddPatient 149 Adnan ÖZSOY 532-2977522 Hürriyet Mah Fevzipaşa Cad No 4  Tepecik  Büyükçekmece/İstanbul
+CreateAdmission 9 117
+AddExamination 9 Inpatient tests measurements
+AddExamination 9 Outpatient imaging doctorvisit
+CreateAdmission 10 141
+AddExamination 10 Inpatient doctorvisit
+CreateAdmission 21 151
+AddExamination 21 Outpatient imaging tests
+AddExamination 21 Outpatient doctorvisit
+CreateAdmission 17 139
+AddExamination 17 Inpatient doctorvisit measurements
+AddExamination 17 Outpatient doctorvisit
+AddExamination 17 Outpatient doctorvisit
+CreateAdmission 15 146
+AddExamination 15 Outpatient tests
+CreateAdmission 3 121
+AddExamination 3 Inpatient tests measurements doctorvisit
+CreateAdmission 1 138
+AddExamination 1 Outpatient doctorvisit imaging
+AddExamination 1 Outpatient doctorvisit
+CreateAdmission 7 209
+AddExamination 7 Inpatient measurements tests imaging
+AddExamination 7 Outpatient doctorvisit
+CreateAdmission 13 125
+AddExamination 13 Outpatient measurements
+CreateAdmission 22 149
+AddExamination 22 Inpatient doctorvisit imaging
+CreateAdmission 0 129
+AddExamination 0 Outpatient imaging tests
+Create Admission 14 147
+AddExamination 14 Inpatient tests measurements
+AddExamination 14 Outpatient doctorvisit
+AddExamination 14 Outpatient doctorvisit
+AddExamination 14 Inpatient doctorvisit
+AddExamination 14 Inpatient doctorvisit tests measurements imaging
+CreateAdmission 3 133
+AddExamination 3 Outpatient doctorvisit
+AddExamination 3 Inpatient tests measurements
+CreateAdmission 18 147
+AddExamination 18 Outpatient tests imaging
+AddExamination 18 Inpatient doctorvisit
+TotalCost 0
+TotalCost 7
+TotalCost 14
+TotalCost 1
+TotalCost 10
+TotalCost 9
+TotalCost 0
+TotalCost 21
+ListPatients
+RemovePatient 140
+RemovePatient 124
+RemovePatient 151
+Remove Patient 129
+ListPatients
+TotalCost 0
+TotalCost 21
+AddPatient 114 Burkay GENÇ 545-2977516 AYRANCILAR MH 64/1 SOKAK NO 2A TORBALI/İZMİR
+CreateAdmission 77 114
+AddExamination 77 Outpatient doctorvisit
+AddExamination 77 Inpatient imaging tests measurements
+ListPatients
+RemovePatient 114
+ListPatients
+RemovePatient 255

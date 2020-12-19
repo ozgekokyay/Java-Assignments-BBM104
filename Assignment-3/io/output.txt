@@ -1,0 +1,294 @@
+Patient 129 Fuat added
+Patient 138 Ebru added
+Patient 136 Harun added
+Patient 121 Murat added
+Patient 132 Burak added
+Patient 127 Burcu added
+Patient 131 Ufuk added
+Patient 209 Ýlyas added
+Patient 128 Engin added
+Patient 117 Tunca added
+Patient 141 Pýnar added
+Patient 114 Önder added
+Patient 145 Mustafa added
+Patient 125 Gönenç added
+Patient 147 Erkut added
+Patient 146 Aykut added
+Patient 139 Nazlý added
+Patient 140 Kayhan added
+Patient 133 Ayça added
+Patient 124 Mehmet added
+Patient 151 Lale added
+Patient 149 Adnan added
+Admission 9 created
+Inpatient examination added to admission 9
+Outpatient examination added to admission 9
+Admission 10 created
+Inpatient examination added to admission 10
+Admission 21 created
+Outpatient examination added to admission 21
+Outpatient examination added to admission 21
+Admission 17 created
+Inpatient examination added to admission 17
+Outpatient examination added to admission 17
+Outpatient examination added to admission 17
+Admission 15 created
+Outpatient examination added to admission 15
+Admission 3 created
+Inpatient examination added to admission 3
+Admission 1 created
+Outpatient examination added to admission 1
+Outpatient examination added to admission 1
+Admission 7 created
+Inpatient examination added to admission 7
+Outpatient examination added to admission 7
+Admission 13 created
+Outpatient examination added to admission 13
+Admission 22 created
+Inpatient examination added to admission 22
+Admission 0 created
+Outpatient examination added to admission 0
+Inpatient examination added to admission 14
+Outpatient examination added to admission 14
+Outpatient examination added to admission 14
+Inpatient examination added to admission 14
+Inpatient examination added to admission 14
+Admission 3 created
+Outpatient examination added to admission 3
+Inpatient examination added to admission 3
+Admission 18 created
+Outpatient examination added to admission 18
+Inpatient examination added to admission 18
+TotalCost for admission 0
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 7
+	Inpatient measurement tests imaging 32$
+	Outpatient doctorvisit 30$
+	Total: 62$
+TotalCost for admission 14
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 1
+	Outpatient doctorvisit imaging 40$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit imaging 40$
+	Outpatient doctorvisit 30$
+	Total: 140$
+TotalCost for admission 10
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit 25$
+	Total: 50$
+TotalCost for admission 9
+	Inpatient tests measurement 22$
+	Inpatient tests measurement 22$
+	Outpatient imaging doctorvisit 40$
+	Outpatient imaging doctorvisit 40$
+	Total: 124$
+TotalCost for admission 0
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 21
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Total: 62$
+Patient List:
+149 Adnan ÖZSOY 532-2977522 Address:  Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul 
+149 Adnan ÖZSOY 532-2977522 Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul
+146 Aykut ERDEM 537-2977515 Address:  ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR 
+146 Aykut ERDEM 537-2977515 ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR
+133 Ayça KOLUKISA 542-2977519 Address:  Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul 
+133 Ayça KOLUKISA 542-2977519 Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul
+132 Burak CAN 545-2977504 Address:  Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul 
+132 Burak CAN 545-2977504 Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul
+127 Burcu CAN 537-2977505 Address:  Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL 
+127 Burcu CAN 537-2977505 Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL
+138 Ebru AKÇAPINAR 312-2977501 Address:  Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL 
+138 Ebru AKÇAPINAR 312-2977501 Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+128 Engin DEMÝR 545-2977508 Address:  Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara 
+128 Engin DEMÝR 545-2977508 Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara
+147 Erkut ERDEM 537-2977514 Address:  Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir 
+147 Erkut ERDEM 537-2977514 Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir
+129 Fuat AKAL 312-2977500 Address:  Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul 
+129 Fuat AKAL 312-2977500 Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul
+125 Gönenç ERCAN 545-2977513 Address:  6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir 
+125 Gönenç ERCAN 545-2977513 6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir
+136 Harun ARTUNER 312-2977502 Address:  Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul 
+136 Harun ARTUNER 312-2977502 Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul
+140 Kayhan ÝMRE 545-2977518 Sehit Ongun M. Hulusi Sok. No:1 Yeniþehir - Lefkoþa Kýbrýs
+151 Lale ÖZKAHYA 537-2977521 Yakuplu Merkez Mah. Fatih Sultan Mehmet Cad. 14. Sok. No:28/ 1 -2 Beylikdüzü/Ýstanbul
+124 Mehmet KÖSEOÐLU 545-2977520 Ziya Gökalp Mah. Süleyman Demirel Bulv. Cumhuriyet Cad. No: 42 Ýþ Modern Tic. Mer. 1. Etap H Blok Kat: 3 No: 63 Ýkitelli / Ýstanbul
+121 Murat AYDOS 312-2977503 Address:  Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul 
+121 Murat AYDOS 312-2977503 Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul
+145 Mustafa EGE 545-2977512 Address:  Adnan Menderes Havaalaný Gaziemir/Ýzmir 
+145 Mustafa EGE 545-2977512 Adnan Menderes Havaalaný Gaziemir/Ýzmir
+139 Nazlý ÝKÝZLER 542-2977517 Address:  75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir 
+139 Nazlý ÝKÝZLER 542-2977517 75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir
+141 Pýnar DUYGULU 545-2977510 Address:  Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara 
+141 Pýnar DUYGULU 545-2977510 Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+117 Tunca DOÐAN 544-2977509 Address:  
+117 Tunca DOÐAN 544-2977509 	Bahçeler Üstü Mah. Arif Yaldýz Cad. No:101/A Mamak/Ankara
+131 Ufuk ÇELÝKCAN 532-2977506 Address:  Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul 
+131 Ufuk ÇELÝKCAN 532-2977506 Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul
+114 Önder EFE 545-2977511 Yunus Emre Mah. 7402/7 Sk. Pýnarbaþý Bornova Ýzmir
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Address:  Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara 
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara
+Patient 140 Kayhan removed
+Patient 124 Mehmet removed
+Patient 151 Lale removed
+Patient List:
+149 Adnan ÖZSOY 532-2977522 Address:  Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul 
+149 Adnan ÖZSOY 532-2977522 Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul
+146 Aykut ERDEM 537-2977515 Address:  ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR 
+146 Aykut ERDEM 537-2977515 ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR
+133 Ayça KOLUKISA 542-2977519 Address:  Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul 
+133 Ayça KOLUKISA 542-2977519 Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul
+132 Burak CAN 545-2977504 Address:  Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul 
+132 Burak CAN 545-2977504 Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul
+127 Burcu CAN 537-2977505 Address:  Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL 
+127 Burcu CAN 537-2977505 Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL
+138 Ebru AKÇAPINAR 312-2977501 Address:  Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL 
+138 Ebru AKÇAPINAR 312-2977501 Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+128 Engin DEMÝR 545-2977508 Address:  Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara 
+128 Engin DEMÝR 545-2977508 Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara
+147 Erkut ERDEM 537-2977514 Address:  Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir 
+147 Erkut ERDEM 537-2977514 Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir
+129 Fuat AKAL 312-2977500 Address:  Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul 
+129 Fuat AKAL 312-2977500 Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul
+125 Gönenç ERCAN 545-2977513 Address:  6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir 
+125 Gönenç ERCAN 545-2977513 6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir
+136 Harun ARTUNER 312-2977502 Address:  Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul 
+136 Harun ARTUNER 312-2977502 Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul
+121 Murat AYDOS 312-2977503 Address:  Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul 
+121 Murat AYDOS 312-2977503 Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul
+145 Mustafa EGE 545-2977512 Address:  Adnan Menderes Havaalaný Gaziemir/Ýzmir 
+145 Mustafa EGE 545-2977512 Adnan Menderes Havaalaný Gaziemir/Ýzmir
+139 Nazlý ÝKÝZLER 542-2977517 Address:  75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir 
+139 Nazlý ÝKÝZLER 542-2977517 75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir
+141 Pýnar DUYGULU 545-2977510 Address:  Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara 
+141 Pýnar DUYGULU 545-2977510 Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+117 Tunca DOÐAN 544-2977509 Address:  
+117 Tunca DOÐAN 544-2977509 	Bahçeler Üstü Mah. Arif Yaldýz Cad. No:101/A Mamak/Ankara
+131 Ufuk ÇELÝKCAN 532-2977506 Address:  Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul 
+131 Ufuk ÇELÝKCAN 532-2977506 Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul
+114 Önder EFE 545-2977511 Yunus Emre Mah. 7402/7 Sk. Pýnarbaþý Bornova Ýzmir
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Address:  Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara 
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara
+TotalCost for admission 0
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 21
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+Patient 114 Burkay added
+Admission 77 created
+Outpatient examination added to admission 77
+Inpatient examination added to admission 77
+Patient List:
+149 Adnan ÖZSOY 532-2977522 Address:  Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul 
+149 Adnan ÖZSOY 532-2977522 Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul
+146 Aykut ERDEM 537-2977515 Address:  ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR 
+146 Aykut ERDEM 537-2977515 ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR
+133 Ayça KOLUKISA 542-2977519 Address:  Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul 
+133 Ayça KOLUKISA 542-2977519 Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul
+132 Burak CAN 545-2977504 Address:  Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul 
+132 Burak CAN 545-2977504 Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul
+127 Burcu CAN 537-2977505 Address:  Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL 
+127 Burcu CAN 537-2977505 Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL
+114 Burkay GENÇ 545-2977516 AYRANCILAR MH 64/1 SOKAK NO 2A TORBALI/ÝZMÝR
+138 Ebru AKÇAPINAR 312-2977501 Address:  Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL 
+138 Ebru AKÇAPINAR 312-2977501 Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+128 Engin DEMÝR 545-2977508 Address:  Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara 
+128 Engin DEMÝR 545-2977508 Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara
+147 Erkut ERDEM 537-2977514 Address:  Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir 
+147 Erkut ERDEM 537-2977514 Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir
+129 Fuat AKAL 312-2977500 Address:  Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul 
+129 Fuat AKAL 312-2977500 Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul
+125 Gönenç ERCAN 545-2977513 Address:  6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir 
+125 Gönenç ERCAN 545-2977513 6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir
+136 Harun ARTUNER 312-2977502 Address:  Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul 
+136 Harun ARTUNER 312-2977502 Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul
+121 Murat AYDOS 312-2977503 Address:  Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul 
+121 Murat AYDOS 312-2977503 Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul
+145 Mustafa EGE 545-2977512 Address:  Adnan Menderes Havaalaný Gaziemir/Ýzmir 
+145 Mustafa EGE 545-2977512 Adnan Menderes Havaalaný Gaziemir/Ýzmir
+139 Nazlý ÝKÝZLER 542-2977517 Address:  75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir 
+139 Nazlý ÝKÝZLER 542-2977517 75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir
+141 Pýnar DUYGULU 545-2977510 Address:  Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara 
+141 Pýnar DUYGULU 545-2977510 Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+117 Tunca DOÐAN 544-2977509 Address:  
+117 Tunca DOÐAN 544-2977509 	Bahçeler Üstü Mah. Arif Yaldýz Cad. No:101/A Mamak/Ankara
+131 Ufuk ÇELÝKCAN 532-2977506 Address:  Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul 
+131 Ufuk ÇELÝKCAN 532-2977506 Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul
+114 Önder EFE 545-2977511 Yunus Emre Mah. 7402/7 Sk. Pýnarbaþý Bornova Ýzmir
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Address:  Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara 
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara
+Patient 114 Burkay removed
+Patient List:
+149 Adnan ÖZSOY 532-2977522 Address:  Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul 
+149 Adnan ÖZSOY 532-2977522 Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul
+146 Aykut ERDEM 537-2977515 Address:  ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR 
+146 Aykut ERDEM 537-2977515 ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR
+133 Ayça KOLUKISA 542-2977519 Address:  Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul 
+133 Ayça KOLUKISA 542-2977519 Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul
+132 Burak CAN 545-2977504 Address:  Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul 
+132 Burak CAN 545-2977504 Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul
+127 Burcu CAN 537-2977505 Address:  Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL 
+127 Burcu CAN 537-2977505 Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL
+138 Ebru AKÇAPINAR 312-2977501 Address:  Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL 
+138 Ebru AKÇAPINAR 312-2977501 Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+128 Engin DEMÝR 545-2977508 Address:  Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara 
+128 Engin DEMÝR 545-2977508 Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara
+147 Erkut ERDEM 537-2977514 Address:  Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir 
+147 Erkut ERDEM 537-2977514 Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir
+129 Fuat AKAL 312-2977500 Address:  Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul 
+129 Fuat AKAL 312-2977500 Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul
+125 Gönenç ERCAN 545-2977513 Address:  6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir 
+125 Gönenç ERCAN 545-2977513 6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir
+136 Harun ARTUNER 312-2977502 Address:  Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul 
+136 Harun ARTUNER 312-2977502 Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul
+121 Murat AYDOS 312-2977503 Address:  Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul 
+121 Murat AYDOS 312-2977503 Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul
+145 Mustafa EGE 545-2977512 Address:  Adnan Menderes Havaalaný Gaziemir/Ýzmir 
+145 Mustafa EGE 545-2977512 Adnan Menderes Havaalaný Gaziemir/Ýzmir
+139 Nazlý ÝKÝZLER 542-2977517 Address:  75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir 
+139 Nazlý ÝKÝZLER 542-2977517 75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir
+141 Pýnar DUYGULU 545-2977510 Address:  Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara 
+141 Pýnar DUYGULU 545-2977510 Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+117 Tunca DOÐAN 544-2977509 Address:  
+117 Tunca DOÐAN 544-2977509 	Bahçeler Üstü Mah. Arif Yaldýz Cad. No:101/A Mamak/Ankara
+131 Ufuk ÇELÝKCAN 532-2977506 Address:  Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul 
+131 Ufuk ÇELÝKCAN 532-2977506 Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Address:  Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara 
+209 Ýlyas ÇÝÇEKLÝ 537-2977507 Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara
+Patient 149 Adnan removed

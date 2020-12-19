@@ -1,0 +1,15 @@
+1	91
+Outpatient imaging tests 
+Inpatient imaging doctorvisit tests 
+Outpatient tests imaging 
+2	35
+Inpatient imaging imaging 
+Inpatient tests doctorvisit 
+Outpatient doctorvisit 
+3	45
+Outpatient doctorvisit 
+Outpatient doctorvisit 
+7	50
+Inpatient tests imaging 
+Inpatient tests imaging 
+15	88

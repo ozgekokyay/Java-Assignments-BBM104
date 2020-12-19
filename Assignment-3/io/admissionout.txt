@@ -1,0 +1,66 @@
+0	129
+Outpatient imaging tests 
+Outpatient imaging tests 
+Inpatient tests measurement 
+Outpatient doctorvisit 
+Outpatient doctorvisit 
+Inpatient doctorvisit 
+Inpatient doctorvisit tests measurement imaging 
+0	129
+1	138
+Outpatient doctorvisit imaging 
+Outpatient doctorvisit 
+Outpatient doctorvisit imaging 
+Outpatient doctorvisit 
+1	138
+3	121
+Inpatient tests measurement doctorvisit 
+Outpatient doctorvisit 
+Inpatient tests measurement 
+Inpatient tests measurement doctorvisit 
+Outpatient doctorvisit 
+Inpatient tests measurement 
+3	121
+3	133
+7	209
+Inpatient measurement tests imaging 
+Outpatient doctorvisit 
+9	117
+Inpatient tests measurement 
+Outpatient imaging doctorvisit 
+Inpatient tests measurement 
+Outpatient imaging doctorvisit 
+9	117
+10	141
+Inpatient doctorvisit 
+Inpatient doctorvisit 
+10	141
+13	125
+Outpatient 
+Outpatient measurement 
+13	125
+15	146
+Outpatient tests 
+Outpatient tests 
+15	146
+17	139
+Inpatient doctorvisit measurement 
+Outpatient doctorvisit 
+Outpatient doctorvisit 
+Inpatient doctorvisit measurement 
+Outpatient doctorvisit 
+Outpatient doctorvisit 
+17	139
+18	147
+Outpatient tests imaging 
+Inpatient doctorvisit 
+Outpatient tests imaging 
+Inpatient doctorvisit 
+18	147
+22	149
+Inpatient doctorvisit imaging 
+Inpatient doctorvisit imaging 
+22	149
+77	114
+Outpatient doctorvisit 
+Inpatient imaging tests measurement 

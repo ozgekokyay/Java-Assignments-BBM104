@@ -1,0 +1,36 @@
+117	Tunca DOÐAN	544-2977509	Adress: Address:  
+117	Tunca DOÐAN	544-2977509	Adress: 	Bahçeler Üstü Mah. Arif Yaldýz Cad. No:101/A Mamak/Ankara
+121	Murat AYDOS	312-2977503	Adress: Address:  Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul 
+121	Murat AYDOS	312-2977503	Adress: Cevizli Mah. Selanik Cad. No:47 Kartal/Ýstanbul
+125	Gönenç ERCAN	545-2977513	Adress: Address:  6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir 
+125	Gönenç ERCAN	545-2977513	Adress: 6118 Sok. No:52 Ayküsan Ayakkabýcýlar Sitesi Bornova/Ýzmir
+127	Burcu CAN	537-2977505	Adress: Address:  Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL 
+127	Burcu CAN	537-2977505	Adress: Altýnþehir Mah.Tavukçuyolu Cad. Tomurcuk Sokak No:6 ÜMRANÝYE-ÝSTANBUL
+128	Engin DEMÝR	545-2977508	Adress: Address:  Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara 
+128	Engin DEMÝR	545-2977508	Adress: Gökkuþaðý Mah. Gökkuþaðý Caddesi Gökkuþaðý Apt. No:71 Balgat / Ankara
+129	Fuat AKAL	312-2977500	Adress: Address:  Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul 
+129	Fuat AKAL	312-2977500	Adress: Cumhuriyet Mah. Erdoðan Sok. No:22/A Çekmeköy / Ýstanbul
+131	Ufuk ÇELÝKCAN	532-2977506	Adress: Address:  Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul 
+131	Ufuk ÇELÝKCAN	532-2977506	Adress: Mescit Mah. Turgut Özal Cad. Güney Sokak No: 3 Dükkan:5-6Tuzla/Ýstanbul
+132	Burak CAN	545-2977504	Adress: Address:  Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul 
+132	Burak CAN	545-2977504	Adress: Akþemsettin Mahallesi Akgül Cad. Ýbrahim Efendi Sok. No:16/A Sultanbeyli/Ýstanbul
+133	Ayça KOLUKISA	542-2977519	Adress: Address:  Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul 
+133	Ayça KOLUKISA	542-2977519	Adress: Cihangir Mahallesi Petrol Ofisi Caddesi No:17/I Avcýlar/Ýstanbul
+136	Harun ARTUNER	312-2977502	Adress: Address:  Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul 
+136	Harun ARTUNER	312-2977502	Adress: Esenkent Mah. Semir Sok. No:2 Ümraniye/Ýstanbul
+138	Ebru AKÇAPINAR	312-2977501	Adress: Address:  Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL 
+138	Ebru AKÇAPINAR	312-2977501	Adress: Fatih Mah. Katip Çelebi Cad. No:51, Tuzla/ISTANBUL
+139	Nazlý ÝKÝZLER	542-2977517	Adress: Address:  75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir 
+139	Nazlý ÝKÝZLER	542-2977517	Adress: 75.Yýl Mah.Tomacýlar Sýt.M Blok No.5 Odunpazarý/Eskiþehir
+141	Pýnar DUYGULU	545-2977510	Adress: Address:  Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara 
+141	Pýnar DUYGULU	545-2977510	Adress: Macun Mahallesi 249 Sokak Yenimahalle Yapý Marketçileri Sitesi A Blok No:50 Gimat-Ankara
+145	Mustafa EGE	545-2977512	Adress: Address:  Adnan Menderes Havaalaný Gaziemir/Ýzmir 
+145	Mustafa EGE	545-2977512	Adress: Adnan Menderes Havaalaný Gaziemir/Ýzmir
+146	Aykut ERDEM	537-2977515	Adress: Address:  ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR 
+146	Aykut ERDEM	537-2977515	Adress: ANAFARTALAR MAH SALKIM SOKAK NO:16-A ÖDEMÝÞ ÝZMÝR
+147	Erkut ERDEM	537-2977514	Adress: Address:  Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir 
+147	Erkut ERDEM	537-2977514	Adress: Uður Mumcu Mah. Gaffar Okan Cad. No:102BA Menemen/Ýzmir
+149	Adnan ÖZSOY	532-2977522	Adress: Address:  Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul 
+149	Adnan ÖZSOY	532-2977522	Adress: Hürriyet Mah Fevzipaþa Cad No 4  Tepecik  Büyükçekmece/Ýstanbul
+209	Ýlyas ÇÝÇEKLÝ	537-2977507	Adress: Address:  Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara 
+209	Ýlyas ÇÝÇEKLÝ	537-2977507	Adress: Yakacýk Köyü 1. Cad. No :15 Yenimahalle/Ankara

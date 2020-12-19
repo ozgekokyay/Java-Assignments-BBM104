@@ -1,0 +1,139 @@
+Patient 129 Fuat added
+Patient 138 Ebru added
+Patient 136 Harun added
+Patient 121 Murat added
+Patient 132 Burak added
+Patient 127 Burcu added
+Patient 131 Ufuk added
+Patient 209 Ýlyas added
+Patient 128 Engin added
+Patient 117 Tunca added
+Patient 141 Pýnar added
+Patient 114 Önder added
+Patient 145 Mustafa added
+Patient 125 Gönenç added
+Patient 147 Erkut added
+Patient 146 Aykut added
+Patient 139 Nazlý added
+Patient 140 Kayhan added
+Patient 133 Ayça added
+Patient 124 Mehmet added
+Patient 151 Lale added
+Patient 149 Adnan added
+Admission 9 created
+Inpatient examination added to admission 9
+Outpatient examination added to admission 9
+Admission 10 created
+Inpatient examination added to admission 10
+Admission 21 created
+Outpatient examination added to admission 21
+Outpatient examination added to admission 21
+Admission 17 created
+Inpatient examination added to admission 17
+Outpatient examination added to admission 17
+Outpatient examination added to admission 17
+Admission 15 created
+Outpatient examination added to admission 15
+Admission 3 created
+Inpatient examination added to admission 3
+Admission 1 created
+Outpatient examination added to admission 1
+Outpatient examination added to admission 1
+Admission 7 created
+Inpatient examination added to admission 7
+Outpatient examination added to admission 7
+Admission 13 created
+Outpatient examination added to admission 13
+Admission 22 created
+Inpatient examination added to admission 22
+Admission 0 created
+Outpatient examination added to admission 0
+Inpatient examination added to admission 14
+Outpatient examination added to admission 14
+Outpatient examination added to admission 14
+Inpatient examination added to admission 14
+Inpatient examination added to admission 14
+Admission 3 created
+Outpatient examination added to admission 3
+Inpatient examination added to admission 3
+Admission 18 created
+Outpatient examination added to admission 18
+Inpatient examination added to admission 18
+TotalCost for admission 0
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 7
+	Inpatient measurement tests imaging 32$
+	Outpatient doctorvisit 30$
+	Total: 62$
+TotalCost for admission 14
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 1
+	Outpatient doctorvisit imaging 40$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit imaging 40$
+	Outpatient doctorvisit 30$
+	Total: 140$
+TotalCost for admission 10
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit 25$
+	Total: 50$
+TotalCost for admission 9
+	Inpatient tests measurement 22$
+	Inpatient tests measurement 22$
+	Outpatient imaging doctorvisit 40$
+	Outpatient imaging doctorvisit 40$
+	Total: 124$
+TotalCost for admission 0
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 21
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Total: 62$
+;Patient 140 Kayhan removed
+Patient 124 Mehmet removed
+Patient 151 Lale removed
+;TotalCost for admission 0
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+TotalCost for admission 21
+	Inpatient tests measurement 22$
+	Inpatient doctorvisit 25$
+	Inpatient doctorvisit tests measurement imaging 47$
+	Outpatient imaging tests 32$
+	Outpatient imaging tests 32$
+	Outpatient doctorvisit 30$
+	Outpatient doctorvisit 30$
+	Total: 218$
+Patient 114 Burkay added
+Admission 77 created
+Outpatient examination added to admission 77
+Inpatient examination added to admission 77
+;Patient 114 Burkay removed
+;Patient 149 Adnan removed
