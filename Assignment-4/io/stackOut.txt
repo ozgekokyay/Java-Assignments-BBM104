@@ -1,0 +1,8 @@
+After addOrRemove 1:
+35 3 5 8 2 1 
+After reverse 2:
+3 35 5 8 2 1 
+After sortElements:
+1 2 3 5 8 35 
+After distinctElements:
+Total distinct element=6
