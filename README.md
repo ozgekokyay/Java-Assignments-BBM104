@@ -5,3 +5,5 @@
 
 ```Assignment 3``` - Hospital Management System using Design Patterns
 
+
+```Assignment 4``` - Queue Stack Implementation
